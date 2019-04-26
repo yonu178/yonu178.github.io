@@ -1,0 +1,36 @@
+body { font-family: 'Song Myung', serif;
+	overflow: scroll;
+	margin: 0px;
+#header{background-color:#AD7D85;}
+#title1 {
+    color: #ECE2E3;
+}
+#index_navigation{
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#index_navigation h1{
+	font-size: 50px;
+	color: #AD7D85;
+}
+#index_navigation a{
+	color: #E5998C;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#index_navigation a:hover{
+	color: #ECE2E3;
+	text-decoration: underline;
+}
+.content_title {
+    color: #E5998C;
+    font-size: 32px;
+    margin-top: 95px;
+    margin-bottom: 95px;
+}
+
+h3 {color: #E5998C;}
